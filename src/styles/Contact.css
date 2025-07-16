@@ -1,0 +1,22 @@
+#fs-frm input,
+#fs-frm textarea {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 0.75em 1rem;
+    margin-bottom: 1.5rem;
+    width: 100%;
+}
+
+#fs-frm label {
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
+    display: block;
+}
+
+#fs-frm input[type='submit'] {
+    background-color: #333;
+    color: white;
+    padding: 0.5em 1.5em;
+    border: none;
+    cursor: pointer;
+}
