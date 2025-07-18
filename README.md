@@ -243,4 +243,3 @@ v1.0.0 (Actual)
 •	✅ Diseño responsivo y optimizado
 •	✅ Búsqueda y paginación funcionales
 •	✅ Preparado para despliegue en producción
-
